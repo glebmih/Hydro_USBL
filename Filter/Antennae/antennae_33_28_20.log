@@ -1,6 +1,6 @@
 LTspice 26.0.1 for Windows
-Circuit: C:\Users\Глеб\Desktop\ГАНС\Фильтр\Антенна\antennae_33_28_20.net
-Start Time: Thu May 21 13:00:28 2026
+Circuit: C:\Users\Глеб\Desktop\ГАНС\Hydro_USBL\Filter\Antennae\antennae_33_28_20.net
+Start Time: Thu May 28 01:00:53 2026
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -10,8 +10,8 @@ WARNING: Node n001 is floating.
 
 .OP point found by inspection.
 .OP point found by inspection.
-Total elapsed time: 0.030 seconds.
+Total elapsed time: 0.018 seconds.
 
 Files loaded:
-C:\Users\Глеб\Desktop\ГАНС\Фильтр\Антенна\antennae_33_28_20.net
+C:\Users\Глеб\Desktop\ГАНС\Hydro_USBL\Filter\Antennae\antennae_33_28_20.net
 

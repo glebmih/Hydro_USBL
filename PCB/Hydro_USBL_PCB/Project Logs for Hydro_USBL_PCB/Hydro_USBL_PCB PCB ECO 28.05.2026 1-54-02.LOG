@@ -1,0 +1,127 @@
+Added Component: Designator=DD?(SOIC-8)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/348/DOC032348430.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UCC27211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=DD?(SOIC-8)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/348/DOC032348430.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UCC27211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_3.3_1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3,3"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_3.3_1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3,3"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_3.3_1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3,3"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_3.3_1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3,3"; VariantName = "[No Variations]"
+Added Component: Designator=T?(RM8_trans)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/153/DOC004153919.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Transformer_RM8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SON-8_5x6)
+Add component (AddParameter): Name = "Current (A)"; Value = "50 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/647/DOC053647214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD18534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "60 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SON-8_5x6)
+Add component (AddParameter): Name = "Current (A)"; Value = "50 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/647/DOC053647214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD18534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "60 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SON-8_5x6)
+Add component (AddParameter): Name = "Current (A)"; Value = "50 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/647/DOC053647214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD18534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "60 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SON-8_5x6)
+Add component (AddParameter): Name = "Current (A)"; Value = "50 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/647/DOC053647214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD18534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "60 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Net: Name=+12В
+Added Pin To Net: NetName=GND Pin=VT?-1
+Added Pin To Net: NetName=GND Pin=VT?-1
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=GND Pin=VT?-3
+Added Pin To Net: NetName=GND Pin=VT?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDD?_3 Pin=DD?-3
+Added Pin To Net: NetName=NetDD?_3 Pin=R?-1
+Added Net: Name=NetDD?_3
+Add Net: Net with name "NetDD?_3" already exists
+Added Pin To Net: NetName=NetDD?_4 Pin=DD?-4
+Added Pin To Net: NetName=NetDD?_4 Pin=T?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-1
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-2
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-3
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Added Net: Name=NetDD?_4
+Add Net: Net with name "NetDD?_4" already exists
+Added Pin To Net: NetName=NetDD?_8 Pin=DD?-8
+Added Pin To Net: NetName=NetDD?_8 Pin=R?-1
+Added Net: Name=NetDD?_8
+Add Net: Net with name "NetDD?_8" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=VT?-4
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Class: Name=HV_amplifier
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

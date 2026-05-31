@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=NetL?_9 Pin=R?-1
+Removed Pin From Net: NetName=NetL?_9 Pin=R?-1
+Change component parameters: Designator = "R?" ("R?"); Footprint = "2512R"; UniqueID = "\IUITSFWC" ("\IUITSFWC")
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Resistor_33_1_2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?" ("R?"); Footprint = "2512R"; UniqueID = "\LRHIFMWB" ("\LRHIFMWB")
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Resistor_33_1_2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=R?(2512R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_33_1_2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=R?(2512R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_33_1_2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=T?(RM8_trans)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/153/DOC004153919.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Transformer_RM8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL?_9 Pin=R?-1
+Added Pin To Net: NetName=NetL?_9 Pin=R?-1
+Added Pin To Net: NetName=NetDD?_4 Pin=T?-5
+Added Pin To Net: NetName=NetL?_3 Pin=T?-8
+Add Net: Net with name "NetDD?_3" already exists
+Add Net: Net with name "NetDD?_4" already exists
+Add Net: Net with name "NetDD?_5" already exists
+Add Net: Net with name "NetDD?_6" already exists
+Add Net: Net with name "NetDD?_8" already exists
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=HV_amplifier Member=Component C? Capacitor
+Added Member To Class: ClassName=HV_amplifier Member=Component DD? UCC27211
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component T? Transformer_RM8
+Added Member To Class: ClassName=HV_amplifier Member=Component VT? CSD18534Q5A
+Added Member To Class: ClassName=HV_amplifier Member=Component VT? CSD18534Q5A
+Added Member To Class: ClassName=HV_amplifier Member=Component VT? CSD18534Q5A

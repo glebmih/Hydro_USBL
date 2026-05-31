@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=NetR?_2 Pin=R?-2
+Added Component: Designator=VT?(SON-8_5x6)
+Add component (AddParameter): Name = "Current (A)"; Value = "50 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/647/DOC053647214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD18534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "60 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SON-8_5x6)
+Add component (AddParameter): Name = "Current (A)"; Value = "50 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/647/DOC053647214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD18534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "60 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SON-8_5x6)
+Add component (AddParameter): Name = "Current (A)"; Value = "50 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/647/DOC053647214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD18534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "60 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SON-8_5x6)
+Add component (AddParameter): Name = "Current (A)"; Value = "50 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/647/DOC053647214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSD18534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "60 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Автор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=VT?-1
+Added Pin To Net: NetName=GND Pin=VT?-1
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-1
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-2
+Added Pin To Net: NetName=GND Pin=VT?-3
+Added Pin To Net: NetName=GND Pin=VT?-3
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-3
+Added Pin To Net: NetName=NetR?_2 Pin=VT?-4
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=+12В Pin=VT?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Added Pin To Net: NetName=NetDD?_4 Pin=VT?-5
+Add Net: Net with name "NetDD?_3" already exists
+Add Net: Net with name "NetDD?_4" already exists
+Add Net: Net with name "NetDD?_5" already exists
+Add Net: Net with name "NetDD?_6" already exists
+Add Net: Net with name "NetDD?_8" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=HV_amplifier Member=Component C? Capacitor
+Added Member To Class: ClassName=HV_amplifier Member=Component DD? UCC27211
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component R? Resistor
+Added Member To Class: ClassName=HV_amplifier Member=Component VT? CSD18534Q5A
+Added Member To Class: ClassName=HV_amplifier Member=Component VT? CSD18534Q5A
+Added Member To Class: ClassName=HV_amplifier Member=Component VT? CSD18534Q5A
+Added Member To Class: ClassName=HV_amplifier Member=Component VT? CSD18534Q5A
