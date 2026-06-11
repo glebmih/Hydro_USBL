@@ -1,5 +1,8 @@
-Record=TopLevelDocument|FileName=Analog_Filter.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Analog_Filter.SchDoc|FileName=HV_amplifier.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Analog_Filter.SchDoc|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Analog_Filter.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Analog_Filter.SchDoc|FileName=Power.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=1|SchDesignator=REPEAT(, 1, 4)|FileName=Analog_Filter.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Analog_Filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=2|SchDesignator=REPEAT(, 1, 4)|FileName=Analog_Filter.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Analog_Filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=3|SchDesignator=REPEAT(, 1, 4)|FileName=Analog_Filter.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Analog_Filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=4|SchDesignator=REPEAT(, 1, 4)|FileName=Analog_Filter.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Analog_Filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Power.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=HV_amplifier.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=HV_amplifier.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MCU.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
