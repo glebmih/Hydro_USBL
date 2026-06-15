@@ -1,0 +1,313 @@
+Removed Pin From Net: NetName=VREFA Pin=R20_1-1
+Removed Pin From Net: NetName=VREFA Pin=R20_2-1
+Removed Pin From Net: NetName=VREFA Pin=R20_3-1
+Removed Pin From Net: NetName=VREFA Pin=R20_4-1
+Removed Member From Class: ClassName=1 Member=C19_1
+Removed Member From Class: ClassName=2 Member=C19_2
+Removed Member From Class: ClassName=3 Member=C19_3
+Removed Member From Class: ClassName=4 Member=C19_4
+Removed Member From Class: ClassName=Designator Member=C?
+Removed Member From Class: ClassName=Designator Member=D?
+Removed Member From Class: ClassName=Designator Member=DA?
+Removed Member From Class: ClassName=Designator Member=DD5
+Removed Member From Class: ClassName=Designator Member=FB?
+Removed Member From Class: ClassName=Designator Member=L?
+Removed Member From Class: ClassName=1 Member=R20_1
+Removed Member From Class: ClassName=2 Member=R20_2
+Removed Member From Class: ClassName=3 Member=R20_3
+Removed Member From Class: ClassName=4 Member=R20_4
+Removed Member From Class: ClassName=Designator Member=R?
+Removed Member From Class: ClassName=Designator Member=S?
+Removed Member From Class: ClassName=Designator Member=ZQ?
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Added Component: Designator=C?_1(0603C)
+Add component (AddParameter): Name = "Capacity (nF)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor_1n_5_50V_NP0_0603C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 н"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Add component: Footprint Not Found 1206C
+Added Component: Designator=C?_2(0603C)
+Add component (AddParameter): Name = "Capacity (nF)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor_1n_5_50V_NP0_0603C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 н"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Add component: Footprint Not Found 1206C
+Add component: Footprint Not Found 1206C
+Added Component: Designator=C?_3(0603C)
+Add component (AddParameter): Name = "Capacity (nF)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor_1n_5_50V_NP0_0603C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 н"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=C?_4(0603C)
+Add component (AddParameter): Name = "Capacity (nF)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor_1n_5_50V_NP0_0603C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 н"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Add component: Footprint Not Found 1206C
+Added Component: Designator=R?_1(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_470k_1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470 к"; VariantName = "[No Variations]"
+Added Component: Designator=R?_1(0805R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_1k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=R?_2(0805R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_1k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=R?_2(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_470k_1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470 к"; VariantName = "[No Variations]"
+Added Component: Designator=R?_3(0805R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_1k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=R?_3(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_470k_1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470 к"; VariantName = "[No Variations]"
+Added Component: Designator=R?_4(0603R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_470k_1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470 к"; VariantName = "[No Variations]"
+Added Component: Designator=R?_4(0805R)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactore"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor_1k_0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shop"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VD?_1(SOT23-3)
+Add component (AddParameter): Name = "Current"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/931/DOC030931559.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VD?_2(SOT23-3)
+Add component (AddParameter): Name = "Current"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/931/DOC030931559.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VD?_3(SOT23-3)
+Add component (AddParameter): Name = "Current"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/931/DOC030931559.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=VD?_4(SOT23-3)
+Add component (AddParameter): Name = "Current"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/931/DOC030931559.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (V)"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "glebmih"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(DM3AT-SF-PEJM5)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/795/DOC059795377.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DM3AT-SF-PEJM5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "јвтор"; Value = "rreali"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C20_1-1
+Add Pin To Net: Unknown Pin: Pin C20_1-2
+Add Pin To Net: Unknown Pin: Pin C20_2-1
+Add Pin To Net: Unknown Pin: Pin C20_2-2
+Add Pin To Net: Unknown Pin: Pin C20_3-1
+Add Pin To Net: Unknown Pin: Pin C20_3-2
+Add Pin To Net: Unknown Pin: Pin C20_4-1
+Add Pin To Net: Unknown Pin: Pin C20_4-2
+Add Pin To Net: Unknown Pin: Pin C26_1-1
+Add Pin To Net: Unknown Pin: Pin C26_1-2
+Add Pin To Net: Unknown Pin: Pin C26_2-1
+Add Pin To Net: Unknown Pin: Pin C26_2-2
+Add Pin To Net: Unknown Pin: Pin C26_3-1
+Add Pin To Net: Unknown Pin: Pin C26_3-2
+Add Pin To Net: Unknown Pin: Pin C26_4-1
+Add Pin To Net: Unknown Pin: Pin C26_4-2
+Added Pin To Net: NetName=VREFA Pin=R?_1-1
+Added Pin To Net: NetName=VREFA Pin=R?_2-1
+Added Pin To Net: NetName=VREFA Pin=R?_3-1
+Added Pin To Net: NetName=VREFA Pin=R?_4-1
+Added Pin To Net: NetName=GND Pin=VD?_1-1
+Added Pin To Net: NetName=GND Pin=VD?_1-2
+Added Pin To Net: NetName=GND Pin=VD?_2-1
+Added Pin To Net: NetName=GND Pin=VD?_2-2
+Added Pin To Net: NetName=GND Pin=VD?_3-1
+Added Pin To Net: NetName=GND Pin=VD?_3-2
+Added Pin To Net: NetName=GND Pin=VD?_4-1
+Added Pin To Net: NetName=GND Pin=VD?_4-2
+Added Pin To Net: NetName=NetC?_1_1 Pin=C?_1-1
+Added Pin To Net: NetName=NetC?_1_1 Pin=R?_1-2
+Added Pin To Net: NetName=NetC?_1_1 Pin=VD?_1-3
+Added Net: Name=NetC?_1_1
+Add Net: Net with name "NetC?_1_1" already exists
+Added Pin To Net: NetName=NetC?_1_2 Pin=C?_1-2
+Added Pin To Net: NetName=NetC?_1_2 Pin=R?_1-1
+Added Net: Name=NetC?_1_2
+Add Net: Net with name "NetC?_1_2" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetC?_2_1 Pin=C?_2-1
+Added Net: Name=NetC?_2_1
+Add Net: Net with name "NetC?_2_1" already exists
+Added Pin To Net: NetName=NetC?_2_2 Pin=C?_2-2
+Added Pin To Net: NetName=NetC?_2_2 Pin=DD3_2-3
+Added Pin To Net: NetName=NetC?_2_2 Pin=R?_2-2
+Added Net: Name=NetC?_2_2
+Add Net: Net with name "NetC?_2_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetC?_3_1 Pin=C?_3-1
+Added Pin To Net: NetName=NetC?_3_1 Pin=R?_3-2
+Added Pin To Net: NetName=NetC?_3_1 Pin=VD?_3-3
+Added Net: Name=NetC?_3_1
+Add Net: Net with name "NetC?_3_1" already exists
+Added Pin To Net: NetName=NetC?_3_2 Pin=C?_3-2
+Added Pin To Net: NetName=NetC?_3_2 Pin=DD3_3-3
+Added Pin To Net: NetName=NetC?_3_2 Pin=R?_3-2
+Added Net: Name=NetC?_3_2
+Add Net: Net with name "NetC?_3_2" already exists
+Added Pin To Net: NetName=NetC?_4_1 Pin=C?_4-1
+Added Net: Name=NetC?_4_1
+Add Net: Net with name "NetC?_4_1" already exists
+Added Pin To Net: NetName=NetC?_4_2 Pin=C?_4-2
+Added Pin To Net: NetName=NetC?_4_2 Pin=R?_4-1
+Added Net: Name=NetC?_4_2
+Add Net: Net with name "NetC?_4_2" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component C20_1 (C20) Capacitor
+Add Class Member: Failed to add class member : Component C20_2 (C20) Capacitor
+Add Class Member: Failed to add class member : Component C20_3 (C20) Capacitor
+Add Class Member: Failed to add class member : Component C20_4 (C20) Capacitor
+Add Class Member: Failed to add class member : Component C26_1 (C26) Capacitor
+Add Class Member: Failed to add class member : Component C26_2 (C26) Capacitor
+Add Class Member: Failed to add class member : Component C26_3 (C26) Capacitor
+Add Class Member: Failed to add class member : Component C26_4 (C26) Capacitor
+Added Member To Class: ClassName=1 Member=Component C?_1 (C?) Capacitor
+Added Member To Class: ClassName=1 Member=Component C?_1 (C?) Capacitor
+Added Member To Class: ClassName=2 Member=Component C?_2 (C?) Capacitor
+Added Member To Class: ClassName=2 Member=Component C?_2 (C?) Capacitor
+Added Member To Class: ClassName=3 Member=Component C?_3 (C?) Capacitor
+Added Member To Class: ClassName=3 Member=Component C?_3 (C?) Capacitor
+Added Member To Class: ClassName=4 Member=Component C?_4 (C?) Capacitor
+Added Member To Class: ClassName=4 Member=Component C?_4 (C?) Capacitor
+Added Member To Class: ClassName=1 Member=Component R?_1 (R?) Resistor
+Added Member To Class: ClassName=1 Member=Component R?_1 (R?) Resistor
+Added Member To Class: ClassName=2 Member=Component R?_2 (R?) Resistor
+Added Member To Class: ClassName=2 Member=Component R?_2 (R?) Resistor
+Added Member To Class: ClassName=3 Member=Component R?_3 (R?) Resistor
+Added Member To Class: ClassName=3 Member=Component R?_3 (R?) Resistor
+Added Member To Class: ClassName=4 Member=Component R?_4 (R?) Resistor
+Added Member To Class: ClassName=4 Member=Component R?_4 (R?) Resistor
+Added Member To Class: ClassName=1 Member=Component VD?_1 (VD?) BAV99
+Added Member To Class: ClassName=2 Member=Component VD?_2 (VD?) BAV99
+Added Member To Class: ClassName=3 Member=Component VD?_3 (VD?) BAV99
+Added Member To Class: ClassName=4 Member=Component VD?_4 (VD?) BAV99
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Change Room Name: Old Name=Designator_1 New Name=Designator

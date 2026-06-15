@@ -1,0 +1,54 @@
+Add component: Footprint Not Found 1206C
+Add component: Footprint Not Found 1206C
+Add component: Footprint Not Found 1206C
+Add component: Footprint Not Found 1206C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add component: Footprint Not Found 0603C
+Add Pin To Net: Unknown Pin: Pin C19_1-2
+Add Pin To Net: Unknown Pin: Pin C19_2-2
+Add Pin To Net: Unknown Pin: Pin C19_3-2
+Add Pin To Net: Unknown Pin: Pin C19_4-2
+Add Pin To Net: Unknown Pin: Pin C21_1-1
+Add Pin To Net: Unknown Pin: Pin C21_1-2
+Add Pin To Net: Unknown Pin: Pin C21_2-1
+Add Pin To Net: Unknown Pin: Pin C21_2-2
+Add Pin To Net: Unknown Pin: Pin C21_3-1
+Add Pin To Net: Unknown Pin: Pin C21_3-2
+Add Pin To Net: Unknown Pin: Pin C21_4-1
+Add Pin To Net: Unknown Pin: Pin C21_4-2
+Add Pin To Net: Unknown Pin: Pin C27_1-1
+Add Pin To Net: Unknown Pin: Pin C27_1-2
+Add Pin To Net: Unknown Pin: Pin C27_2-1
+Add Pin To Net: Unknown Pin: Pin C27_2-2
+Add Pin To Net: Unknown Pin: Pin C27_3-1
+Add Pin To Net: Unknown Pin: Pin C27_3-2
+Add Pin To Net: Unknown Pin: Pin C27_4-1
+Add Pin To Net: Unknown Pin: Pin C27_4-2
+Added Pin To Net: NetName=ADC Pin=R31_1-2
+Added Pin To Net: NetName=ADC Pin=R31_2-2
+Added Pin To Net: NetName=ADC Pin=R31_3-2
+Added Pin To Net: NetName=ADC Pin=R31_4-2
+Added Net: Name=ADC
+Added Net: Name=ANT
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component C19_1 (C19) Capacitor
+Add Class Member: Failed to add class member : Component C19_2 (C19) Capacitor
+Add Class Member: Failed to add class member : Component C19_3 (C19) Capacitor
+Add Class Member: Failed to add class member : Component C19_4 (C19) Capacitor
+Add Class Member: Failed to add class member : Component C21_1 (C21) Capacitor
+Add Class Member: Failed to add class member : Component C21_2 (C21) Capacitor
+Add Class Member: Failed to add class member : Component C21_3 (C21) Capacitor
+Add Class Member: Failed to add class member : Component C21_4 (C21) Capacitor
+Add Class Member: Failed to add class member : Component C27_1 (C27) Capacitor
+Add Class Member: Failed to add class member : Component C27_2 (C27) Capacitor
+Add Class Member: Failed to add class member : Component C27_3 (C27) Capacitor
+Add Class Member: Failed to add class member : Component C27_4 (C27) Capacitor
+Added Room: Name=Designator
