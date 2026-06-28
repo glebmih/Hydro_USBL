@@ -1,0 +1,17 @@
+Change Net Name : Old Net Name=BUTTON New Net Name=BUTTON_4
+Change Net Name : Old Net Name=HRTIM_CHA1 New Net Name=HRTIM_CHA1_4
+Change Net Name : Old Net Name=HRTIM_CHA2 New Net Name=HRTIM_CHA2_4
+Change Net Name : Old Net Name=HRTIM_CHB1 New Net Name=HRTIM_CHB1_4
+Change Net Name : Old Net Name=HRTIM_CHB2 New Net Name=HRTIM_CHB2_4
+Change Net Name : Old Net Name=LED1 New Net Name=LED1_4
+Change Net Name : Old Net Name=LED2 New Net Name=LED2_4
+Change Net Name : Old Net Name=RESET New Net Name=RESET_4
+Change Net Name : Old Net Name=RS485_N New Net Name=RS485_6_N
+Change Net Name : Old Net Name=RS485_P New Net Name=RS485_6_P
+Change Net Name : Old Net Name=TIM1_CH1 New Net Name=TIM1_CH1_4
+Change Net Name : Old Net Name=TIM1_CH1N New Net Name=TIM1_CH1N_4
+Change Net Name : Old Net Name=TIM1_CH2 New Net Name=TIM1_CH2_4
+Change Net Name : Old Net Name=TIM1_CH2N New Net Name=TIM1_CH2N_4
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default
+Added Differential Pair: Name=RS485_6

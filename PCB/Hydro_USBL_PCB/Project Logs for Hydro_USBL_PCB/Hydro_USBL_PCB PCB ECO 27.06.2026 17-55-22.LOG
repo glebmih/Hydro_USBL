@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=VREFA New Net Name=VREFAB
+Change Net Color : Old Net Color=RGB(255, 204, 255) New Net Color=Default
+Added Rule: Name=Schematic Supply Nets_8

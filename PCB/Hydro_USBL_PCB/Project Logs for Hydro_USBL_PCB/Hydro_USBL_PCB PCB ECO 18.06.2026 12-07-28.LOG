@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=XP2 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP4 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP5 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP6 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP7 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP8 Old Footprint=CWF-2 New Footprint=CWF-2
+Added Pin To Net: NetName=VDD Pin=R41-2
+Added Pin To Net: NetName=VDD Pin=R46-2
+Change Net Name : Old Net Name=USB_DM New Net Name=USB_N
+Change Net Name : Old Net Name=USB_DP New Net Name=USB_P
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 204, 255)
+Added Differential Pair: Name=RS485
+Added Differential Pair: Name=USB

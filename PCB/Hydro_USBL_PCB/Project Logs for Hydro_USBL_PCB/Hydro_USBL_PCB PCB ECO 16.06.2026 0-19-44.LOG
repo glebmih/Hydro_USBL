@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=XP2 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP4 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP5 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP6 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP7 Old Footprint=CWF-2 New Footprint=CWF-2
+Change Component Footprint: Designator=XP8 Old Footprint=CWF-2 New Footprint=CWF-2
+Add component: Footprint Not Found CAP_SMD_10x12,8
+Add component: Footprint Not Found CAP_SMD_10x12,8
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C9 Capacitor

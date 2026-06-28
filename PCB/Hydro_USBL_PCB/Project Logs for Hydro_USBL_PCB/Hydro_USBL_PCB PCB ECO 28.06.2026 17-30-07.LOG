@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SWCLOCK Pin=DD5-76
+Added Pin To Net: NetName=SWCLOCK Pin=VD5-1
+Added Pin To Net: NetName=SWCLOCK Pin=XP3-3
+Added Net: Name=SWCLOCK
+Added Pin To Net: NetName=SWDIO Pin=DD5-72
+Added Pin To Net: NetName=SWDIO Pin=VD5-6
+Added Pin To Net: NetName=SWDIO Pin=XP3-2
+Added Net: Name=SWDIO

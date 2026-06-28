@@ -1,0 +1,98 @@
+Removed Member From Class: ClassName=D Member=C19B
+Removed Member From Class: ClassName=D Member=C20B
+Removed Member From Class: ClassName=D Member=C21B
+Removed Member From Class: ClassName=D Member=C22B
+Removed Member From Class: ClassName=D Member=C23B
+Removed Member From Class: ClassName=D Member=C24B
+Removed Member From Class: ClassName=D Member=C25B
+Removed Member From Class: ClassName=D Member=C26B
+Removed Member From Class: ClassName=D Member=C27B
+Removed Member From Class: ClassName=D Member=C28B
+Removed Member From Class: ClassName=D Member=C29B
+Removed Member From Class: ClassName=E Member=C30C
+Removed Member From Class: ClassName=C Member=C31A
+Removed Member From Class: ClassName=E Member=C31C
+Removed Member From Class: ClassName=C Member=C32A
+Removed Member From Class: ClassName=E Member=C32C
+Removed Member From Class: ClassName=C Member=C33A
+Removed Member From Class: ClassName=E Member=C33C
+Removed Member From Class: ClassName=D Member=DA1B
+Removed Member From Class: ClassName=D Member=DD3B
+Removed Member From Class: ClassName=C Member=DD4A
+Removed Member From Class: ClassName=E Member=DD4C
+Removed Member From Class: ClassName=C Member=R15A
+Removed Member From Class: ClassName=E Member=R15C
+Removed Member From Class: ClassName=C Member=R16A
+Removed Member From Class: ClassName=E Member=R16C
+Removed Member From Class: ClassName=C Member=R17A
+Removed Member From Class: ClassName=E Member=R17C
+Removed Member From Class: ClassName=C Member=R18A
+Removed Member From Class: ClassName=E Member=R18C
+Removed Member From Class: ClassName=C Member=R19A
+Removed Member From Class: ClassName=E Member=R19C
+Removed Member From Class: ClassName=C Member=R20A
+Removed Member From Class: ClassName=E Member=R20C
+Removed Member From Class: ClassName=C Member=R21A
+Removed Member From Class: ClassName=E Member=R21C
+Removed Member From Class: ClassName=C Member=R22A
+Removed Member From Class: ClassName=E Member=R22C
+Removed Member From Class: ClassName=C Member=R23A
+Removed Member From Class: ClassName=E Member=R23C
+Removed Member From Class: ClassName=D Member=R24B
+Removed Member From Class: ClassName=D Member=R25B
+Removed Member From Class: ClassName=D Member=R26B
+Removed Member From Class: ClassName=D Member=R27B
+Removed Member From Class: ClassName=D Member=R28B
+Removed Member From Class: ClassName=D Member=R29B
+Removed Member From Class: ClassName=D Member=R30B
+Removed Member From Class: ClassName=D Member=R31B
+Removed Member From Class: ClassName=E Member=VD3C
+Added Member To Class: ClassName=D Member=Component C19C (C19) Capacitor
+Added Member To Class: ClassName=D Member=Component C20C (C20) Capacitor
+Added Member To Class: ClassName=D Member=Component C21C (C21) Capacitor
+Added Member To Class: ClassName=D Member=Component C22C (C22) Capacitor
+Added Member To Class: ClassName=D Member=Component C23C (C23) Capacitor
+Added Member To Class: ClassName=D Member=Component C24C (C24) Capacitor
+Added Member To Class: ClassName=D Member=Component C25C (C25) Capacitor
+Added Member To Class: ClassName=D Member=Component C26C (C26) Capacitor
+Added Member To Class: ClassName=D Member=Component C27C (C27) Capacitor
+Added Member To Class: ClassName=D Member=Component C28C (C28) Capacitor
+Added Member To Class: ClassName=D Member=Component C29C (C29) Capacitor
+Added Member To Class: ClassName=E Member=Component C30D (C30) Capacitor
+Added Member To Class: ClassName=C Member=Component C31B (C31) Capacitor
+Added Member To Class: ClassName=E Member=Component C31D (C31) Capacitor
+Added Member To Class: ClassName=C Member=Component C32B (C32) Capacitor
+Added Member To Class: ClassName=E Member=Component C32D (C32) Capacitor
+Added Member To Class: ClassName=C Member=Component C33B (C33) Capacitor
+Added Member To Class: ClassName=E Member=Component C33D (C33) Capacitor
+Added Member To Class: ClassName=D Member=Component DA1C (DA1) AD8031
+Added Member To Class: ClassName=D Member=Component DD3C (DD3) AD8656
+Added Member To Class: ClassName=C Member=Component DD4B (DD4) AD8656
+Added Member To Class: ClassName=E Member=Component DD4D (DD4) AD8656
+Added Member To Class: ClassName=C Member=Component R15B (R15) Resistor
+Added Member To Class: ClassName=E Member=Component R15D (R15) Resistor
+Added Member To Class: ClassName=C Member=Component R16B (R16) Resistor
+Added Member To Class: ClassName=E Member=Component R16D (R16) Resistor
+Added Member To Class: ClassName=C Member=Component R17B (R17) Resistor
+Added Member To Class: ClassName=E Member=Component R17D (R17) Resistor
+Added Member To Class: ClassName=C Member=Component R18B (R18) Resistor
+Added Member To Class: ClassName=E Member=Component R18D (R18) Resistor
+Added Member To Class: ClassName=C Member=Component R19B (R19) Resistor
+Added Member To Class: ClassName=E Member=Component R19D (R19) Resistor
+Added Member To Class: ClassName=C Member=Component R20B (R20) Resistor
+Added Member To Class: ClassName=E Member=Component R20D (R20) Resistor
+Added Member To Class: ClassName=C Member=Component R21B (R21) Resistor
+Added Member To Class: ClassName=E Member=Component R21D (R21) Resistor
+Added Member To Class: ClassName=C Member=Component R22B (R22) Resistor
+Added Member To Class: ClassName=E Member=Component R22D (R22) Resistor
+Added Member To Class: ClassName=C Member=Component R23B (R23) Resistor
+Added Member To Class: ClassName=E Member=Component R23D (R23) Resistor
+Added Member To Class: ClassName=D Member=Component R24C (R24) Resistor
+Added Member To Class: ClassName=D Member=Component R25C (R25) Resistor
+Added Member To Class: ClassName=D Member=Component R26C (R26) Resistor
+Added Member To Class: ClassName=D Member=Component R27C (R27) Resistor
+Added Member To Class: ClassName=D Member=Component R28C (R28) Resistor
+Added Member To Class: ClassName=D Member=Component R29C (R29) Resistor
+Added Member To Class: ClassName=D Member=Component R30C (R30) Resistor
+Added Member To Class: ClassName=D Member=Component R31C (R31) Resistor
+Added Member To Class: ClassName=E Member=Component VD3D (VD3) BAV99
