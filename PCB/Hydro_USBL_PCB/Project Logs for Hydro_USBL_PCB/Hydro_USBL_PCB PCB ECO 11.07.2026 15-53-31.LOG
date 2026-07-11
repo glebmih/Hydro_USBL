@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PWM2_HI Pin=R42-1
+Removed Pin From Net: NetName=PWM1_LO Pin=R42-2
+Removed Pin From Net: NetName=PWM2_LO Pin=R43-1
+Removed Pin From Net: NetName=PWM1_HI Pin=R43-2
+Removed Member From Class: ClassName=STM32 Member=R42
+Removed Member From Class: ClassName=STM32 Member=R43
