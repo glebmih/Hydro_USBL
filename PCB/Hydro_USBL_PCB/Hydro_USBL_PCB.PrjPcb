@@ -244,7 +244,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=Hydro_USBL_PCB.PCBDwf
+DocumentPath=Hydro_USBL_Assy.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -261,7 +261,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RAFTRXAX
 
 [Document13]
-DocumentPath=Hydro_USBL_PCB_1.PCBDwf
+DocumentPath=Hydro_USBL_Fab.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
