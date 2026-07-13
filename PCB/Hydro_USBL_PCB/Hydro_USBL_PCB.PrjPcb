@@ -45,6 +45,7 @@ CrossRefPorts=0
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=01
 
 [Preferences]
 PrefsVaultGUID=
@@ -225,6 +226,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=Hydro_USBL_PCB.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=951a6c06-cfbe-43b2-a0f9-02a6a7bce763
 Description=01
@@ -241,40 +259,40 @@ Variation7=Designator=C12|UniqueId=\LMPYSMVI\LKHQVXQH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Version
-Value=01
+Name=CheckedBy
+Value=
 
 [Parameter2]
-Name=Title2
-Value=15В в 300В
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.XXX
 
 [Parameter3]
-Name=Title1
-Value=Преобразователь из
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.XXX
 
 [Parameter4]
-Name=Title
-Value=ГАНС с короткой или ультракороткой базой
+Name=DrawnBy
+Value=Михайловский Г.
 
 [Parameter5]
 Name=Release_Date
 Value=???
 
 [Parameter6]
-Name=DrawnBy
-Value=Михайловский Г.
+Name=Title
+Value=ГАНС с короткой или ультракороткой базой
 
 [Parameter7]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.XXX
+Name=Title1
+Value=Преобразователь из
 
 [Parameter8]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.XXX
+Name=Title2
+Value=15В в 300В
 
 [Parameter9]
-Name=CheckedBy
-Value=
+Name=Version
+Value=01
 
 [Configuration1]
 Name=Sources
@@ -282,7 +300,9 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=HydroJob.OutJob
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
@@ -292,7 +312,9 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=HydroJob.OutJob
 ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Fabrication
 
