@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=L2 Old Footprint=SP43 New Footprint=SP43
+Change Physical Footprint: Designator=R9 Old Footprint=0805R New Footprint=0805R
+Change Physical Footprint: Designator=R10 Old Footprint=0805R New Footprint=0805R
+Change Physical Footprint: Designator=R15A Old Footprint=0805R New Footprint=0805R
+Change Physical Footprint: Designator=R15B Old Footprint=0805R New Footprint=0805R
+Change Physical Footprint: Designator=R15C Old Footprint=0805R New Footprint=0805R
+Change Physical Footprint: Designator=R15D Old Footprint=0805R New Footprint=0805R
+Change Physical Footprint: Designator=VD6 Old Footprint=mini_MELF_3.5mm New Footprint=mini_MELF_3.5mm
+Change Physical Footprint: Designator=XP3 Old Footprint=PLS6 New Footprint=PLS6

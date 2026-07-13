@@ -45,7 +45,6 @@ CrossRefPorts=0
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=01
 
 [Preferences]
 PrefsVaultGUID=
@@ -84,7 +83,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -101,7 +100,7 @@ AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -135,7 +134,7 @@ AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -152,7 +151,7 @@ AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -203,7 +202,7 @@ AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -231,53 +230,51 @@ UniqueId=951a6c06-cfbe-43b2-a0f9-02a6a7bce763
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=9
-Variation1=Designator=R42|UniqueId=\NPQTHDFW\EEYNCEHH|Kind=1|AlternatePart=
-Variation2=Designator=R43|UniqueId=\NPQTHDFW\ARJESKKS|Kind=1|AlternatePart=
-Variation3=Designator=R37|UniqueId=\NPQTHDFW\ESLLWDGA|Kind=1|AlternatePart=
-Variation4=Designator=R38|UniqueId=\NPQTHDFW\HUCJLYFC|Kind=1|AlternatePart=
-Variation5=Designator=R39|UniqueId=\NPQTHDFW\QPVMJYYP|Kind=1|AlternatePart=
-Variation6=Designator=R40|UniqueId=\NPQTHDFW\NQVRANBO|Kind=1|AlternatePart=
-Variation7=Designator=DD7|UniqueId=\LMPYSMVI\NMYCOBEC|Kind=1|AlternatePart=
-Variation8=Designator=R57|UniqueId=\LMPYSMVI\PAVIYPNP|Kind=1|AlternatePart=
-Variation9=Designator=C12|UniqueId=\LMPYSMVI\LKHQVXQH|Kind=1|AlternatePart=
+VariationCount=7
+Variation1=Designator=R37|UniqueId=\NPQTHDFW\ESLLWDGA|Kind=1|AlternatePart=
+Variation2=Designator=R38|UniqueId=\NPQTHDFW\HUCJLYFC|Kind=1|AlternatePart=
+Variation3=Designator=R39|UniqueId=\NPQTHDFW\QPVMJYYP|Kind=1|AlternatePart=
+Variation4=Designator=R40|UniqueId=\NPQTHDFW\NQVRANBO|Kind=1|AlternatePart=
+Variation5=Designator=DD7|UniqueId=\LMPYSMVI\NMYCOBEC|Kind=1|AlternatePart=
+Variation6=Designator=R57|UniqueId=\LMPYSMVI\PAVIYPNP|Kind=1|AlternatePart=
+Variation7=Designator=C12|UniqueId=\LMPYSMVI\LKHQVXQH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=CheckedBy
-Value=
+Name=Version
+Value=01
 
 [Parameter2]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.XXX
+Name=Title2
+Value=15В в 300В
 
 [Parameter3]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.XXX
+Name=Title1
+Value=Преобразователь из
 
 [Parameter4]
-Name=DrawnBy
-Value=Михайловский Г.
+Name=Title
+Value=ГАНС с короткой или ультракороткой базой
 
 [Parameter5]
 Name=Release_Date
 Value=???
 
 [Parameter6]
-Name=Title
-Value=ГАНС с короткой или ультракороткой базой
+Name=DrawnBy
+Value=Михайловский Г.
 
 [Parameter7]
-Name=Title1
-Value=Преобразователь из
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.XXX
 
 [Parameter8]
-Name=Title2
-Value=15В в 300В
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.XXX
 
 [Parameter9]
-Name=Version
-Value=01
+Name=CheckedBy
+Value=
 
 [Configuration1]
 Name=Sources
@@ -1323,9 +1320,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Hydrolib.DbLib/Capacitors_electrolytic$
-ComponentDesignItemID0=50SVPF68M
-ComponentSymbolReference0=Capacitor_polar
+ComponentLibraryIdentifier0=Hydrolib.DbLib/Connectors$
+ComponentDesignItemID0=PLS-6
+ComponentSymbolReference0=Conn_6pin
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=0
@@ -1341,44 +1338,36 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Capacity (uF)
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Case
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Datasheet
+ParameterName4=Part Number
 ParameterUpdate4=1
-ParameterName5=Description
+ParameterName5=System
 ParameterUpdate5=1
-ParameterName6=Library Reference
+ParameterName6=Value1
 ParameterUpdate6=1
-ParameterName7=Manufactore
+ParameterName7=Value2
 ParameterUpdate7=1
-ParameterName8=Notice
+ParameterName8=Value3
 ParameterUpdate8=1
-ParameterName9=Part Number
+ParameterName9=Value4
 ParameterUpdate9=1
-ParameterName10=Rate
+ParameterName10=Value5
 ParameterUpdate10=1
-ParameterName11=Shop
+ParameterName11=Value6
 ParameterUpdate11=1
-ParameterName12=Tolerance
+ParameterName12=Автор
 ParameterUpdate12=1
-ParameterName13=Type
-ParameterUpdate13=1
-ParameterName14=Value
-ParameterUpdate14=1
-ParameterName15=Voltage (V)
-ParameterUpdate15=1
-ParameterName16=Автор
-ParameterUpdate16=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=CAP_SMD_10x12,8
+ModelName0=PLS6
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
