@@ -1,0 +1,12 @@
+Change Value of Parameter Value1 in Part XP5 Old=ANT1 New={Value1}
+Change Value of Parameter Value2 in Part XP5 Old=GND New={Value2}
+Change Value of Parameter Value1 in Part XP6 Old=ANT2 New={Value1}
+Change Value of Parameter Value2 in Part XP6 Old=GND New={Value2}
+Change Value of Parameter Value1 in Part XP7 Old=ANT3 New={Value1}
+Change Value of Parameter Value2 in Part XP7 Old=GND New={Value2}
+Change Value of Parameter Value1 in Part XP8 Old=ANT4 New={Value1}
+Change Value of Parameter Value2 in Part XP8 Old=GND New={Value2}
+Replace Symbol from XP5 Conn_2pin in C:\Users\√ÎÂ·\Desktop\√¿Õ—\Hydro_USBL\PCB\Hydro_USBL_PCB\Connectors.SchDoc with Conn_2pin from Hydrolib.DbLib
+Replace Symbol from XP6 Conn_2pin in C:\Users\√ÎÂ·\Desktop\√¿Õ—\Hydro_USBL\PCB\Hydro_USBL_PCB\Connectors.SchDoc with Conn_2pin from Hydrolib.DbLib
+Replace Symbol from XP7 Conn_2pin in C:\Users\√ÎÂ·\Desktop\√¿Õ—\Hydro_USBL\PCB\Hydro_USBL_PCB\Connectors.SchDoc with Conn_2pin from Hydrolib.DbLib
+Replace Symbol from XP8 Conn_2pin in C:\Users\√ÎÂ·\Desktop\√¿Õ—\Hydro_USBL\PCB\Hydro_USBL_PCB\Connectors.SchDoc with Conn_2pin from Hydrolib.DbLib

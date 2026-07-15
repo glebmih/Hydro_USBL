@@ -1,0 +1,7 @@
+Change Value of Parameter Value1 in Part XP3 Old=+3,3ֲ New={Value1}
+Change Value of Parameter Value2 in Part XP3 Old=SWDIO New={Value2}
+Change Value of Parameter Value3 in Part XP3 Old=SWCLK New={Value3}
+Change Value of Parameter Value4 in Part XP3 Old=GND New={Value4}
+Change Value of Parameter Value5 in Part XP3 Old=UART_TX New={Value5}
+Change Value of Parameter Value6 in Part XP3 Old=UART_RX New={Value6}
+Replace Symbol from XP3 Conn_6pin in C:\Users\ֳכוב\Desktop\ְֳֽׁ\Hydro_USBL\PCB\Hydro_USBL_PCB\Connectors.SchDoc with Conn_6pin from Hydrolib.DbLib
