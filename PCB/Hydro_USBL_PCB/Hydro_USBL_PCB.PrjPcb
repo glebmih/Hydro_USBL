@@ -293,40 +293,40 @@ Variation7=Designator=C12|UniqueId=\LMPYSMVI\LKHQVXQH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=CheckedBy
-Value=
+Name=Version
+Value=01
 
 [Parameter2]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.XXX
-
-[Parameter3]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.XXX
-
-[Parameter4]
-Name=DrawnBy
-Value=Михайловский Г.
-
-[Parameter5]
-Name=Release_Date
-Value=???
-
-[Parameter6]
-Name=Title
-Value=ГАНС с короткой или ультракороткой базой
-
-[Parameter7]
-Name=Title1
-Value=Преобразователь из
-
-[Parameter8]
 Name=Title2
 Value=15В в 300В
 
+[Parameter3]
+Name=Title1
+Value=Преобразователь из
+
+[Parameter4]
+Name=Title
+Value=ГАНС с короткой или ультракороткой базой
+
+[Parameter5]
+Name=Release_Date
+Value=16.07
+
+[Parameter6]
+Name=DrawnBy
+Value=Михайловский Г.
+
+[Parameter7]
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.023
+
+[Parameter8]
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.024
+
 [Parameter9]
-Name=Version
-Value=01
+Name=CheckedBy
+Value=Карманов С.
 
 [Configuration1]
 Name=Sources
@@ -363,7 +363,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=HydroJob.OutJob
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
-LocalReleaseTarget=ГИДР.123456.001-01.01
+LocalReleaseTarget=ГИДР.123456.023-01.01
 
 [Configuration4]
 Name=Assembly
@@ -1375,8 +1375,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Hydrolib.DbLib/Connectors$
-ComponentDesignItemID0=PLS-6
-ComponentSymbolReference0=Conn_6pin
+ComponentDesignItemID0=CWF-2
+ComponentSymbolReference0=Conn_2pin
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=0
@@ -1396,32 +1396,22 @@ ParameterName0=Comment
 ParameterUpdate0=1
 ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Datasheet
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=Part Number
+ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=System
+ParameterName5=Part Number
 ParameterUpdate5=1
-ParameterName6=Value1
+ParameterName6=System
 ParameterUpdate6=1
-ParameterName7=Value2
+ParameterName7=Автор
 ParameterUpdate7=1
-ParameterName8=Value3
-ParameterUpdate8=1
-ParameterName9=Value4
-ParameterUpdate9=1
-ParameterName10=Value5
-ParameterUpdate10=1
-ParameterName11=Value6
-ParameterUpdate11=1
-ParameterName12=Автор
-ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=PLS6
+ModelName0=CWF-2
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
